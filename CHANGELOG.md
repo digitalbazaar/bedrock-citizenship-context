@@ -1,5 +1,5 @@
 # bedrock-citizenship-context ChangeLog
 
-## 1.0.0 - TBD
+## 1.0.0 - 2020-01-24
 
 - See git history for changes.
