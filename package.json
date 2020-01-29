@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-citizenship-context",
   "dependencies": {
-    "citizenship-context": "~1.0.0"
+    "citizenship-context": "~2.0.0"
   },
   "peerDependencies": {
     "bedrock": "^3.0.0",
