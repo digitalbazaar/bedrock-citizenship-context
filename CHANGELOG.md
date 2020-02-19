@@ -1,5 +1,10 @@
 # bedrock-citizenship-context ChangeLog
 
+## 2.0.0 - 2020-02-19
+
+### Changed
+- **BREAKING**: Use citezenship-context@2.
+
 ## 1.0.0 - 2020-01-24
 
 - See git history for changes.
