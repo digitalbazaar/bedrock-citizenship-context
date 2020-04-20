@@ -1,5 +1,10 @@
 # bedrock-citizenship-context ChangeLog
 
+## 3.0.0 - 2020-04-xx
+
+### Changed
+- **BREAKING**: Use citizenship-context@3.
+
 ## 2.0.0 - 2020-02-19
 
 ### Changed
